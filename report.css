@@ -1,0 +1,55 @@
+body {
+    margin: 0;
+    padding: 3rem 5rem;
+}
+
+.tittle {
+    display: block;
+    text-align: center;
+    text-decoration: none;
+}
+
+.tittle h1, p {
+    padding: 0;
+    margin: 0;
+}
+
+.ina {
+    display: flex;
+    justify-content: center;
+}
+
+.salam p {
+    padding: 3px;
+}
+
+.alm {
+    display: block;
+    text-align: center;
+    padding-top: 1rem;
+}
+
+.alm h1, p {
+    margin: 0;
+    padding: 0;
+}
+
+.sedo p {
+    font-weight: bold;
+}
+
+.sare {
+    padding-top: 1rem;
+}
+
+.sare p {
+    font-weight: bold;
+}
+
+.panutup p {
+    padding: 1rem 0;
+}
+
+.dukito {
+    
+}
